@@ -1,8 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////         Equipo de Sistema de Gestion de prestamos de equipos de computo           Fecha:21/11/2022  /////
 ///// Por.                                                                                                /////
-///// LUIS EMILIANO REYES GUTIERREZ <RGLO210933@upemor.edu.mx>                                            /////
-///// VALERIA SANCHEZ PEREZ <SPVO210190@upemor.edu.mx>                                                    /////
+///// LUIS EMILIANO REYES GUTIERREZ <RGLO210933@upemor.edu.mx>                                                /////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
